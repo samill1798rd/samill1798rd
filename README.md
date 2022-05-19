@@ -1,6 +1,6 @@
 # Howdy there, mate! Gilbert here 👋
 
-#### I'm a Software Developer located and working in DO 🇩🇴.
+#### I'm a Software Developer located and working in DO.
 
 - 🏢 I'm currently working at **[OGTIC](https://ogtic.gob.do/)**
 - ⚙️ Working on technologies such as:`.Net`, `.Net Core`, `Js`, `Python`, `Vue.js`, `Selenium`, `Jquery`, `SQLServer`.
